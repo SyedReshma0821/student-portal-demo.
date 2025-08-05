@@ -1,0 +1,15 @@
+Student-Portal-Application
+
+Name:Syed.Reshma
+
+Course:BCA
+
+Roll no:59
+
+Hall Ticket:123127206166
+
+Phone Number:8008173150
+
+Email id:syedreshma123@gmail.com
+
+Address:K.G.H Down
